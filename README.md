@@ -115,12 +115,12 @@ The analysis reveals that revenue is highly concentrated in Nairobi, demonstrati
 ## Project Structure
 
 kenya-ecommerce-eda/
-│
-├── data/
-│ └── kenyan_online_shop_data.csv
-├── notebook/
-│ └── analysis.ipynb
-├── README.md
+
+  data/
+    kenyan_online_shop_data.csv
+  notebook/
+    analysis.ipynb
+  README.md
 
 ---
 
